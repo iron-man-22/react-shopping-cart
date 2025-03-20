@@ -1,0 +1,20 @@
+
+
+.view-details-bt {
+    width: 120px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    cursor: pointer;
+    border-radius: 0px;
+    margin-left:200px;
+
+    
+  }
+  
+  .view-details-bt:hover {
+    background-color: #333;
+  }
+  

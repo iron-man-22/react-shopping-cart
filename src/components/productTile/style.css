@@ -1,0 +1,19 @@
+.view-details-btn {
+    width: 100px;
+    font-size: 12px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 0px;
+    display: block; 
+    margin: 20px auto 0 auto; 
+    text-align: center; 
+    
+  }
+  
+  .view-details-btn:hover {
+    background-color: #333;
+  }
+  
